@@ -1,0 +1,6 @@
+full coded by amine
+stonge algorihtm for the backend system
+no database yet
+simple user interface need to imporve(after learning frontend,first priject is creat an app and connect the backend to it and DB )
+still need write comment and doc coment for func and the app
+after finishing all what has been writen at this file i will write the description of the app the coder and all stuff and add it to my project
